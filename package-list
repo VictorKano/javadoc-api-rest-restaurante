@@ -1,0 +1,6 @@
+com.restaurante.apirest
+com.restaurante.apirest.Repository
+com.restaurante.apirest.config
+com.restaurante.apirest.endpoint
+com.restaurante.apirest.error
+com.restaurante.apirest.model
